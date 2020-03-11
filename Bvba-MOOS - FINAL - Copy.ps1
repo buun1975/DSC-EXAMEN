@@ -315,7 +315,7 @@ Configuration BvbaMOOS {
             Contents        = "<html>
             <header><title>Welkom</title></header>
                 <body>
-                        DSC Dinges van Delander Bruno   
+                        DSC Dinges van Delander Bruno  @ Syntra 
                 </body>
             </html>"
         }
